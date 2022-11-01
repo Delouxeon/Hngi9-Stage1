@@ -15,7 +15,7 @@ return(
       </div>
     </div>
     <h1 id='twitter' className='twitter-username'>Doen</h1>
-    <h1 id='slack' className='slack-username'>Doen</h1>
+    <h2 id='slack' className='slack-username'>Doen</h2>
   </section>
 )
 
