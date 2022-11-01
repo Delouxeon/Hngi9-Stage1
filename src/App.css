@@ -26,7 +26,7 @@ body, a{
 
 }
 
-.top-icon :hover {
+a.top-icon :hover {
   background-image: url("./assets/more-icon-pressed.svg");
 }
 
